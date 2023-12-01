@@ -1,0 +1,9 @@
+lasio
+pandas
+matplotlib
+scikit-learn
+numpy
+requests
+tensorflow
+seaborn
+scipy
